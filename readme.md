@@ -10,13 +10,13 @@
 ### Connect with me:
 
 
-[![website](./img/twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only)
+[![website](./img/twitter-dark.svg)](www.twitter.com/in/sandhavi)
 &nbsp;&nbsp;
 &nbsp;&nbsp;
 [![website](./img/linkedin-dark.svg)](www.linkedin.com/in/sandhavi)
 &nbsp;&nbsp;
 &nbsp;&nbsp;
-[![website](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
+[![website](./img/instagram-dark.svg)](www.instagram.com/in/sandhavi)
 
 ### Languages and Tools:
 
@@ -30,8 +30,8 @@
 [<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />][webdevplaylist]
 [<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />][webdevplaylist]
 [<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-dark-mode-only)
-[<img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg"  style="padding-right:10px;" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-dark-mode-only)
+[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />]((www.linkedin.com/in/sandhavi))
+[<img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg"  style="padding-right:10px;" />](www.linkedin.com/in/sandhavi)
 [<img align="left" alt="Next.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"  style="padding-right:10px;" />][webdevplaylist]
 [<img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"  style="padding-right:10px;" />][webdevplaylist]
 [<img align="left" alt="Flutter" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"  style="padding-right:10px;" />][webdevplaylist]
