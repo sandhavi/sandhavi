@@ -1,6 +1,6 @@
 # Hi there, I'm Sandhavi &nbsp; ![Wave Emoji](img/06_bubududuspinorange-ezgif.com-resize%20(3).gif)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sandhavi&label=Profile%20views&color=blueviolet&style=plastic alt="sandhavi'sprofileviews" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sandhavi&label=Profile%20views&color=blueviolet&style=plastic" alt="sandhavi'sprofileviews" /> </p>
 
 - 👩🏽‍💻 I’m currently IS Undergraduate at UCSC and HD Computing and SE Graduate.
 - 🥅 2024 Goals: Learn more about mobile app development and other cool stuffs.
