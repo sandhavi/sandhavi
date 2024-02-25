@@ -10,13 +10,14 @@
 ### Connect with me:
 
 
-[![website](./img/twitter-dark.svg)](www.twitter.com/in/sandhavi)
+[![website](./img/twitter-dark.svg)](https://x.com/sandhavi3?s=08)
 &nbsp;&nbsp;
 &nbsp;&nbsp;
 [![website](./img/linkedin-dark.svg)](www.linkedin.com/in/sandhavi)
 &nbsp;&nbsp;
 &nbsp;&nbsp;
-[![website](./img/instagram-dark.svg)](www.instagram.com/in/sandhavi)
+[![website](./img/instagram-dark.svg)](https://www.instagram.com/sundav?igsh=bWV3c2xibnZjbjhn)
+
 
 ### Languages and Tools:
 
