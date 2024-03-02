@@ -46,7 +46,11 @@
 <br />
 
 
-![Sandhavi's GitHub stats](https://github-readme-stats.vercel.app/api?username=sandhavi&show_icons=true&theme=transparent)
+<!-- ![Sandhavi's GitHub stats](https://github-readme-stats.vercel.app/api?username=sandhavi&show_icons=true,include_all_commits=true&theme=transparent) -->
+
+### My GitHub Stats:
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sandhavi&theme=transparent" alt="sandhavi" /></p>
 
 
 [twitter]: https://twitter.com/sandhavi
